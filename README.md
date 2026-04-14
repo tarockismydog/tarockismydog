@@ -24,7 +24,7 @@
 
    Framework <br/>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=flat-square&logo=VisualStudio&logoColor=white"/>
   
   Library <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
