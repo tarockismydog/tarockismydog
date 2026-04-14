@@ -20,18 +20,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 
   <br/>
   
    Framework <br/>
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/>
   
   <br/>
 
-  Library 
+  Library <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white&Color=white"/>
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white&Color=white"/>
