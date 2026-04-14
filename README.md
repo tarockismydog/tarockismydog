@@ -8,23 +8,20 @@
 <div>
   <!--Body-->
   
-   👀 About Me
-   :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-   :fire: I aim to become a Cloud AI Engineer.<br/>
-   :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+   👀 React + Spring Boot 기반 3년차 풀스택 개발자입니다.<br/>
+   :fire: 사용자 경험과 성능을 함께 고민하는 개발을 지향합니다..<br/>
+   :mortar_board: 상태관리(Zustand)와 API 설계에 관심이 많습니다.
   <br/>
   <br/>
   
    🧱 Tech Stack
    Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/#3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
+  <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
+
   <br/>
   
    Library
